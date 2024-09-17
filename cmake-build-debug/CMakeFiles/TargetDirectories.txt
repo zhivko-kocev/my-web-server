@@ -1,0 +1,4 @@
+/home/zhivko-kocev/Codes/personal-projects/my-web/cmake-build-debug/CMakeFiles/my_web.dir
+/home/zhivko-kocev/Codes/personal-projects/my-web/cmake-build-debug/CMakeFiles/test.dir
+/home/zhivko-kocev/Codes/personal-projects/my-web/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zhivko-kocev/Codes/personal-projects/my-web/cmake-build-debug/CMakeFiles/rebuild_cache.dir
